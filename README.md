@@ -9,4 +9,4 @@ Let's connect and explore the possibilities in the vast landscape of technology 
 I am looking forward to collaborating on exciting projects related to AI, ML, DL, and the fascinating world of data science! 🚀
 
 ### Skills
-Python. PowerBI. Excel. HTML. 
+Python. PowerBI. Excel. HTML. Cairo. IoT.
