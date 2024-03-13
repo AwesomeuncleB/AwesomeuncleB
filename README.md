@@ -1,4 +1,4 @@
-### Hi there 👋  I'm Bello Abdullahi
+### Hi there 👋  I'm Muhammad Abdul
 
 I am an enthusiastic individual deeply immersed in the exciting realms of Data Science, IoT, Reinforcement Learning (RL), Deep Learning, and recently Blockchain. I proudly hail from the vibrant city of Kaduna and currently hold the esteemed position of a Click-on Kaduna Data Science Fellow as well as an Arewa Data Science Fellow.
 
