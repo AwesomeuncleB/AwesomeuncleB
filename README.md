@@ -1,6 +1,6 @@
 ### Hi there 👋  I'm Muhammad Abdul
 
-I am an enthusiastic individual deeply immersed in the exciting realms of Data Science, IoT, Reinforcement Learning (RL), Deep Learning, and recently Blockchain. I proudly hail from the vibrant city of Kaduna and currently hold the esteemed position of a Click-on Kaduna Data Science Fellow as well as an Arewa Data Science Fellow.
+I am an enthusiastic individual deeply immersed in the exciting realms of Data Science, IoT, Reinforcement Learning (RL), Deep Learning, and recently Blockchain (particularly Cairo). I proudly hail from the vibrant city of Kaduna and currently hold the esteemed position of a Click-on Kaduna Data Science Fellow as well as an Arewa Data Science Fellow.
 
 My passion for Data Science has led me to a pivotal role as the Lead Data Science Tutor at IT Central, where I actively contribute to the development and growth of aspiring data scientists. With a keen interest in the intersection of technology and data, I am consistently exploring innovative IoT, RL, and Deep Learning applications.
 
