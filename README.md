@@ -6,7 +6,7 @@ With a keen interest in the intersection of technology and data, I am consistent
 
 Let's connect and explore the possibilities in the vast landscape of technology and data-driven solutions. Feel free to reach out at therealb205@gmail.com and check out my ongoing projects on my GitHub portfolio: https://github.com/AwesomeuncleB.
 
-I look forward to collaborating on exciting projects related to back-end devlopment, IoT, AI, ML, DL, and the fascinating world of data science! 🚀
+I look forward to collaborating on exciting projects related to back-end development, IoT, AI, ML, DL, and the fascinating world of data science! 🚀
 
 ### Skills
 Python. PowerBI. Excel. HTML. Arduino. Flask.
