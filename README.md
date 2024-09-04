@@ -1,12 +1,43 @@
-### Hi there 👋  I'm Bello
+### Data Science/ Machine Learning | IoT |
 
-I am enthusiastic about the exciting realms of Data Science, IoT, Reinforcement Learning (RL), Deep Learning, and recently Blockchain. I proudly hail from the vibrant city of Kaduna and currently hold the esteemed position of a Click-on Kaduna Data Science Fellow and an Arewa Data Science Fellow.
+Hi there!  I'm Bello, a Data Scientist from the vibrant city of Kaduna, Nigeria. I have over 3 years of experience in the field, currently working at iT central.
 
-With a keen interest in the intersection of technology and data, I am consistently exploring innovative IoT, RL, and Deep Learning applications.
+My expertise lies in:
 
-Let's connect and explore the possibilities in the vast landscape of technology and data-driven solutions. Feel free to reach out at therealb205@gmail.com and check out my ongoing projects on my GitHub portfolio: https://github.com/AwesomeuncleB.
+- Data Science: Applying statistical and computational techniques to extract insights from data and building ML/DL Models.
 
-I look forward to collaborating on exciting projects related to back-end development, IoT, AI, ML, DL, and the fascinating world of data science! 🚀
+- IoT (Internet of Things): Building intelligent systems that connect the physical and digital world.
 
-### Skills
-Python. PowerBI. Excel. HTML. Arduino. Flask.
+- Blockchain: Exploring the potential of decentralized technologies for secure and transparent data management and performing analysis with on the chain protocols.
+
+- Climate and Health Data: Analyzing data to understand and address climate change and health-related challenges.
+
+### Let's connect!
+
+I'm always eager to collaborate on exciting projects related to:
+
+- Data Science (Machine/Deep Learning - ML/DL): I'm particularly passionate about these areas! 🚀
+
+- IoT applications 📡
+
+- Artificial Intelligence (AI) 🤖
+
+- Blockchain ⛓️
+
+## Find me online:
+
+LinkedIn: https://www.linkedin.com/in/bello-abdullahi-2442a2168/ (Connect with me on LinkedIn)
+
+Email: therealb205@gmail.com
+
+GitHub: (Check out my projects!)
+
+## Tools:
+
+- Python: Jupyter Notebook, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch, Bokeh
+
+- Data visualization: Power BI
+
+- IoT: Arduino, Raspberry Pi, IoT platforms (Thinkspeak, AWS IoT, Google Cloud IoT)
+
+- Cairo (Starknet): Beginner level
