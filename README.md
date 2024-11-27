@@ -1,6 +1,6 @@
 ### Data Science/ Machine Learning | IoT |
 
-Hi there!  I'm Bello, a Data Scientist from the vibrant city of Kaduna, Nigeria. I have over 3 years of experience in the field, currently working at iT central.
+Hi there!  I'm Bello, a Data Scientist from the vibrant city of Kaduna, Nigeria. I have over 3 years of experience in the field.
 
 My expertise lies in:
 
