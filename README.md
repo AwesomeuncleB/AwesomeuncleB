@@ -4,7 +4,7 @@ Hi there!  I'm Bello, a Data Scientist from the vibrant city of Kaduna, Nigeria.
 
 My expertise lies in:
 
-- Data Science: Applying statistical and computational techniques to extract insights from data and building ML/DL Models.
+- Data Science: Applying statistical and computational techniques to extract insights from data and building ML/DL Models. Currently learning about AI Agents...
 
 - IoT (Internet of Things): Building intelligent systems that connect the physical and digital world.
 
