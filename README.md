@@ -1,4 +1,4 @@
-### Data Science/ Machine Learning | IoT |
+### AI/ML | IoT |
 
 Hi there!  I'm Bello, a Data Scientist from the vibrant city of Kaduna, Nigeria. I have over 3 years of experience in the field.
 
@@ -8,7 +8,7 @@ My expertise lies in:
 
 - IoT (Internet of Things): Building intelligent systems that connect the physical and digital world.
 
-- Blockchain: Exploring the potential of decentralized technologies for secure and transparent data management and performing analysis with on the chain protocols.
+- Blockchain: Exploring the potential of decentralized technologies for secure and transparent data management and performing analysis on-chain protocols.
 
 - Climate and Health Data: Analyzing data to understand and address climate change and health-related challenges.
 
