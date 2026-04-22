@@ -34,4 +34,5 @@ GitHub: (Check out my projects!)
 
 - IoT: Arduino, Raspberry Pi, IoT platforms (Thinkspeak, AWS IoT, Google Cloud IoT)
 
-- Cairo (Starknet): Beginner level
+- Cairo (Starknet): Trying stuff out
+- Rust 
